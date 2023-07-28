@@ -1,0 +1,2 @@
+# HitlerGPT
+acts like hitler
